@@ -3,7 +3,7 @@
 
 Skills: HTML / CSS / JS / React / SQL / Ruby / Ruby on Rails / Node.js
 
-- 🔭 I’m currently working on this project: https://github.com/brunatorman/odin-recipes 
+- 🔭 I’m currently working on this project: https://github.com/brunatorman/odin-landingpage 
 - 🌱 I’m currently learning Full Stack development on freeCodeCamp and Odin Project 
 - 👯 I’m looking to collaborate on open source projects using JavaScript and Ruby 
 - 💬 Ask me about front-end, my dog and why Ruby is cool :) 
